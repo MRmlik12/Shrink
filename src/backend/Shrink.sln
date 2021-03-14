@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shrink", "Shrink\Shrink.csproj", "{BC9E3EC7-1551-4DB2-B331-C5620AD1DA98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shrink.Tests", "Shrink.Tests\Shrink.Tests.csproj", "{FE59CA44-D9BA-4732-A790-A5E99D930FC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9E3EC7-1551-4DB2-B331-C5620AD1DA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9E3EC7-1551-4DB2-B331-C5620AD1DA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9E3EC7-1551-4DB2-B331-C5620AD1DA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9E3EC7-1551-4DB2-B331-C5620AD1DA98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE59CA44-D9BA-4732-A790-A5E99D930FC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE59CA44-D9BA-4732-A790-A5E99D930FC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE59CA44-D9BA-4732-A790-A5E99D930FC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE59CA44-D9BA-4732-A790-A5E99D930FC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
